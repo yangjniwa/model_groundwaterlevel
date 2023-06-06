@@ -1,0 +1,46 @@
+Well,Region,Zone,Northing,Easting,Well depth,Aquifer type
+,,,,,,
+R25/0003,Kapiti Coast,Coastal GW Zone (D),1776328,5482693,60.5,Non-Flowing Artesian
+R25/5123,Kapiti Coast,Hautere (S),1778282,5480785,13,Water Table
+R25/5228,Kapiti Coast,Otaki,1779183,5486286,31.71,Semi-Confined
+R26/6503,Kapiti Coast,Paekakariki (D),1766253,5462295,14.8,Water Table
+R26/6520,Kapiti Coast,Paekakariki (S),1766365,5462470,6,Water Table
+R26/6594,Kapiti Coast,Waikanae (D),1770722,5473136,74,Non-Flowing Artesian
+R26/6626,Kapiti Coast,Waikanae (S),1773782,5474085,15.8,Semi-Confined
+R26/6916,Kapiti Coast,Waikanae (S),1770722,5473136,21,Semi-Confined
+R27/1117,Hutt Valley,Lower Hutt (S),1763574,5438391,14.4,Water Table
+R27/7004,Hutt Valley,Upper Hutt (D),1770649,5444445,32.4,Non-Flowing Artesian
+R28/0002,Wairarapa Valley,Onoke/Narrows,1779603,5416045,17,Non-Flowing Artesian
+S25/5208,Kapiti Coast,Hautere (D),1780183,5480785,192.02,Non-Flowing Artesian
+S25/5228,Kapiti Coast,Otaki (S),1782737,5483247,0,Water Table
+S25/5258,Kapiti Coast,Otaki (S),1782227,5483431,6,Water Table
+S25/5329,Kapiti Coast,Waitohu (D),1780583,5487986,25.3,Semi-Confined
+S25/5332,Kapiti Coast,Waitohu (S),1782183,5487286,9.09,Water Table
+S26/0030,Wairarapa Valley,Waingawa Fan (N. Masterton F.),1819666,5464185,38,Semi-Confined
+S26/0033,Wairarapa Valley,Waingawa Fan (N. Masterton F.),1818493,5464562,12,Water Table
+S26/0229,Wairarapa Valley,Upper Waingawa,1816546,5459589,23.8,Semi-Confined
+S26/0236,Wairarapa Valley,Upper Waingawa,1818120,5460574,41.4,Non-Flowing Artesian
+S26/0242,Wairarapa Valley,Upper Waingawa,1816553,5459603,7.5,Water Table
+S26/0490,Wairarapa Valley,Greytown,1805493,5450976,5,Water Table
+S26/0545,Wairarapa Valley,Greytown,1809483,5451390,18,Semi-Confined
+S26/0568,Wairarapa Valley,Parkvale,1813487,5451921,45,Flowing Artesian
+S26/0675,Wairarapa Valley,Parkvale-Carterton,1812924,5452588,31.5,Flowing Artesian
+S26/0738,Wairarapa Valley,Parkvale,1815311,5453577,5.4,Water Table
+S26/0743,Wairarapa Valley,Parkvale,1815028,5451785,33,Non-Flowing Artesian
+S27/0012,Wairarapa Valley,Tauherenikau Fan,1793778,5443401,66.5,Non-Flowing Artesian
+S27/0099,Wairarapa Valley,Tauherenikau Fan,1803170,5442510,16.76,Non-Flowing Artesian
+S27/0148,Wairarapa Valley,Tauherenikau Fan,1802221,5447044,8.77,Water Table
+S27/0202,Wairarapa Valley,Tauherenikau Fan,1805461,5446520,4.8,Water Table
+S27/0248,Wairarapa Valley,Mid Ruamahanga,1813058,5448004,7.9,Non-Flowing Artesian
+S27/0346,Wairarapa Valley,Ruamahanga Valley,1804059,5437102,9.5,Semi-Confined
+S27/0381,Wairarapa Valley,Ruamahanga Valley,1805651,5435941,20.95,Non-Flowing Artesian
+S27/0428,Wairarapa Valley,Lake Basin,1787618,5430809,43.56,Flowing Artesian
+S27/0434,Wairarapa Valley,Lake Basin,1786853,5428337,45.2,Flowing Artesian
+S27/0542,Wairarapa Valley,Ruamahanga Valley,1799989,5431940,19,Semi-Confined
+S27/0571,Wairarapa Valley,Martinborough Terraces,1807158,5433014,32,Semi-Confined
+S27/0576,Wairarapa Valley,Onoke/Narrows,1781419,5423507,55.53,Flowing Artesian
+S27/0594,Wairarapa Valley,Onoke/Narrows,1781351,5419721,44,Flowing Artesian
+T26/0243,Wairarapa Valley,Te Ore Ore,1826227,5463379,47.5,Non-Flowing Artesian
+T26/0326,Wairarapa Valley,Fernhill,1820860,5455805,10,Semi-Confined
+T26/0429,Wairarapa Valley,Waingawa Fan (S. Masterton F.),1820022,5461986,9.92,Water Table
+T26/0501,Wairarapa Valley,Te Ore Ore,1826098,5462612,5.1,Water Table
